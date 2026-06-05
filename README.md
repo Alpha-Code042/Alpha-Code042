@@ -89,17 +89,12 @@ A Python-based command-line application that simulates real-world library operat
 * Contribute to open-source software
 * Strengthen backend development skills
 * Build a portfolio of production-ready applications
+* 
+## 📈 GitHub Stats
 
----
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpha-Code042&show_icons=true)
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpha-Code042\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Code042\&layout=compact\&theme=tokyonight)
-
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Code042&layout=compact)
 ## 📫 Contact Me
 
 📧 Email: [victorosinachi16@gmail.com](mailto:victorosinachi16@gmail.com)
